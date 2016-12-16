@@ -121,3 +121,53 @@
 	border-top: solid;
 	border-color: black;
 }
+
+.class4_1{
+	padding: 5px;
+	display: inline-block;
+	font-size: 11px;
+	font-weight: bold;	
+	background-color: black;
+	color: white;
+}
+
+.EN{
+	background-color: red;
+	font-weight: bold;
+	color: white;
+}
+
+.Alep{
+	color: blue;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.appel{
+	float: right;
+	margin-top: 50px;
+	margin-left: -100px;
+	margin-right: -70px;
+	display: inline-block;
+	background-color: red;
+}
+
+.black{
+	float: right;
+	margin-top: -20px;
+	margin-left: -100px;
+	margin-right: -300px;
+	display: inline-block;
+	background-color: black;
+	color: black;
+}
+
+.white{
+	float: right;
+	margin-top: -20px;
+	margin-left: -100px;
+	margin-right: -500px;
+	display: inline-block;
+	background-color: white;
+	color: white;
+}
