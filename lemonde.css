@@ -27,6 +27,7 @@
 	list-style: none;
 	display: inline-block;
 	color: lightgrey;
+	border-bottom: solid;
 
 }
 
@@ -45,6 +46,11 @@
 	font-size: 40px;
 	text-align: center;
 	padding: 15px;
+}
+
+.class3 img{
+	width: 20%;
+	height: 20%;
 }
 
 .class3 ul li{
@@ -149,6 +155,7 @@
 	margin-left: -100px;
 	margin-right: -70px;
 	display: inline-block;
+	color: white;
 	background-color: red;
 }
 
@@ -170,4 +177,81 @@
 	display: inline-block;
 	background-color: white;
 	color: white;
+}
+
+.smart{
+	float: right;
+	margin-top: 20px;
+	margin-left: -100px;
+	margin-right: -100px;
+	display: inline-block;
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+
+.smart2{
+	float: right;
+	margin-top: 2px;
+	margin-left: -100px;
+	margin-right: -100px;
+	display: inline-block;
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+
+.partagez{
+	color: black;
+	font-size: 12px;
+	font-weight: bold;
+	float: right;
+	margin-top: 5px;
+	margin-left: -100px;
+	margin-right: -100px;
+	display: inline-block;
+}
+
+.continu{
+	float: right;
+	margin-top: 50px;
+	margin-left: -100px;
+	margin-right: -100px;
+	display: inline-block;
+	color: white;
+	background-color: red;
+}
+
+.black2{
+	float: right;
+	margin-top: -20px;
+	margin-left: -50px;
+	margin-right: -300px;
+	display: inline-block;
+	background-color: black;
+	color: black;
+}
+
+.white2{
+	float: right;
+	margin-top: -20px;
+	margin-left: -100px;
+	margin-right: -500px;
+	display: inline-block;
+	background-color: white;
+	color: white;
+}
+
+.class4_2{
+	list-style: none;
+	float: right;
+	margin-top: 5px;
+	margin-left: -100px;
+	margin-right: -50px;
+	display: inline-block;
+
+}
+
+.continu2{
+	background-color: lightgrey;
 }
